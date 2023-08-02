@@ -1,4 +1,4 @@
-
+"Đừng viết comment đầy đủ mà không code gì cả."
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngdat2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BA%A1t-%C4%91%E1%BA%A1t-2237681b1/) 
 
