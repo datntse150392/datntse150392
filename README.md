@@ -1,5 +1,6 @@
 
-🚀 Hiện tại, mình đang tập trung vào Node.js and React.js => Mình tin rằng việc giải quyết những vấn đề phức tạp bằng những giải pháp đơn giản và sáng tạo là điều làm cho công việc lập trình thú vị.
+🚀 Hiện tại, mình đang tập trung vào Node.js and React.js
+=> Mình tin rằng việc giải quyết những vấn đề phức tạp bằng những giải pháp đơn giản và sáng tạo là điều làm cho công việc lập trình thú vị.
 
 💡 Mục tiêu hàng ngày của mình là học thêm điều mới mẻ, và mình luôn cố gắng nâng cao kỹ năng ở nhiều ngôn ngữ để có thể thực hiện những dự án tốt hơn.
 
