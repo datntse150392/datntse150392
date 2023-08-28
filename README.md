@@ -1,18 +1,9 @@
-"Đừng viết comment đầy đủ mà không code gì cả."
-Nguyen Thanh Dat (DEV)
-datntse150392 · he/him
 
-👨‍💻 Chào mọi người! Mình là Dat, một lập trình viên đam mê với niềm yêu thích về việc chia sẻ kiến thức và học hỏi từ mọi người.
+🚀 Hiện tại, mình đang tập trung vào Node.js and React.js => Mình tin rằng việc giải quyết những vấn đề phức tạp bằng những giải pháp đơn giản và sáng tạo là điều làm cho công việc lập trình thú vị.
 
-🚀 Hiện tại, mình đang tập trung vào [Công nghệ hoặc lĩnh vực chính bạn quan tâm]. Mình tin rằng việc giải quyết những vấn đề phức tạp bằng những giải pháp đơn giản và sáng tạo là điều làm cho công việc lập trình thú vị.
+💡 Mục tiêu hàng ngày của mình là học thêm điều mới mẻ, và mình luôn cố gắng nâng cao kỹ năng ở nhiều ngôn ngữ để có thể thực hiện những dự án tốt hơn.
 
-💡 Mục tiêu hàng ngày của mình là học thêm điều mới mẻ, và mình luôn cố gắng nâng cao kỹ năng trong [Ngôn ngữ lập trình/Thư viện/FrameWork] để có thể thực hiện những dự án tốt hơn.
-
-🎓 Ngoài lập trình, mình cũng đam mê [Sở thích/Quan tâm khác], [Sở thích/Quan tâm khác], và [Sở thích/Quan tâm khác]. Cuộc sống cần có sự cân bằng, đúng không?
-
-🌐 Hãy kết nối với mình! Bạn có thể liên hệ để [Hợp tác/Trò chuyện/Mạng lưới kết nối] - mình luôn háo hức để kết nối với các lập trình viên và những người đam mê công nghệ.
-
-🔗 Xem thêm về dự án của mình tại: [Liên kết đến portfolio của bạn]
+🔗 Xem thêm về dự án của mình tại: https://netliix-nguyenthanhdat.vercel.app/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngdat2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BA%A1t-%C4%91%E1%BA%A1t-2237681b1/) 
