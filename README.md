@@ -4,8 +4,8 @@
 💡 Mục tiêu hàng ngày của mình là học thêm điều mới mẻ, và mình luôn cố gắng nâng cao kỹ năng ở nhiều ngôn ngữ để có thể thực hiện những dự án tốt hơn.
 
 🔗 Xem thêm về dự án của mình tại:
-+ ReactJS https://netliix-nguyenthanhdat.vercel.app/ (Front End & mockapi )
-+ NodeJS https://github.com/datntse150392/BE_NODEJS 
++ React.js https://netliix-nguyenthanhdat.vercel.app/ ( React.js & mockapi )
++ Node.js https://github.com/datntse150392/BE_NODEJS 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngdat2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BA%A1t-%C4%91%E1%BA%A1t-2237681b1/) 
