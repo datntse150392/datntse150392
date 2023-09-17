@@ -11,6 +11,7 @@
 - 📫 How to reach me **nt.dat2001dt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ngdat2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-%C4%91%E1%BA%A1t-2237681b1/) 
 
 <h3 align="left">Languages and Tools:</h3>
