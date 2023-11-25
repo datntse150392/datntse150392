@@ -19,7 +19,6 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/xyz123.jpg" alt="JSP/Servlet" title="JSP/Servlet" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;">
@@ -28,11 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/xyz123.jpg" alt="Golang" title="Golang" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/xyz123.jpg" alt="Cloudinary" title="Cloudinary" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/xyz123.jpg" alt="AWS" title="AWS" width="40" height="40" style="margin-right: 10px;">
 </p>
 
 # 📊 GitHub Stats:
