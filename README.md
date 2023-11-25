@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Technologies list with icons -->
+  <!-- Technologies list with corrected URLs -->
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin-right: 10px;">
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;">
