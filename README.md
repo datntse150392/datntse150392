@@ -2,16 +2,6 @@
 <h3 align="center">A passionate Web developer From VietNam.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<script>
-  // Welcome Animation Script
-  window.addEventListener('DOMContentLoaded', (event) => {
-    const welcomeText = document.getElementById('welcome');
-    setTimeout(() => {
-      welcomeText.style.opacity = '1';
-      welcomeText.style.transition = 'opacity 1s ease-in-out';
-    }, 500);
-  });
-</script>
 - 🔭 I’m currently working on [WingSpan](https://github.com/datntse150392/OngButDiCode)
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/datntse150392](https://github.com/datntse150392)
