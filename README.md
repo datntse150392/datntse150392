@@ -2,6 +2,16 @@
 <h3 align="center">A passionate Web developer From VietNam.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<script>
+  // Welcome Animation Script
+  window.addEventListener('DOMContentLoaded', (event) => {
+    const welcomeText = document.getElementById('welcome');
+    setTimeout(() => {
+      welcomeText.style.opacity = '1';
+      welcomeText.style.transition = 'opacity 1s ease-in-out';
+    }, 500);
+  });
+</script>
 - 🔭 I’m currently working on [WingSpan](https://github.com/datntse150392/OngButDiCode)
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/datntse150392](https://github.com/datntse150392)
@@ -22,7 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;">
