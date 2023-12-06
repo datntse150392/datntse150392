@@ -83,9 +83,6 @@
       <br />Tailwind
     </td>
   </tr>
-  <tr align="center">
-    
-  </tr>
 </table>
 
 <h3 align="center">Back-end</h3>
@@ -112,6 +109,10 @@
     <td align="center" width="96">
         <img src="/images/icons8-google-firebase-console-48.png" width="48" height="48" alt="Firebase" />
       <br />Firebase
+    </td>
+   <td align="center" width="96">
+        <img src="/images/icons8-bootstrap-48.png" width="48" height="48" alt="Bootstrap" />
+      <br />Bootstrap
     </td>
   </tr>
 </table>
