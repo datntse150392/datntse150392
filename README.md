@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer From VietNam.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on <img alt="WingSpan Logo" width="50" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29"> [WingSpan](https://github.com/datntse150392/OngButDiCode)
+- 🔭 I’m currently working on <img alt="WingSpan Logo" width="100" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29"> [WingSpan](https://github.com/datntse150392/OngButDiCode)
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/datntse150392](https://github.com/datntse150392)
 - 📫 How to reach me **nt.dat2001dt@gmail.com**
