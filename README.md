@@ -82,6 +82,10 @@
         <img src="/images/icons8-tailwind-css-48.png" width="48" height="48" alt="Tailwind" />
       <br />Tailwind
     </td>
+   <td align="center" width="96">
+        <img src="/images/icons8-bootstrap-48.png" width="48" height="48" alt="Bootstrap" />
+      <br />Bootstrap
+    </td>
   </tr>
 </table>
 
@@ -109,10 +113,6 @@
     <td align="center" width="96">
         <img src="/images/icons8-google-firebase-console-48.png" width="48" height="48" alt="Firebase" />
       <br />Firebase
-    </td>
-   <td align="center" width="96">
-        <img src="/images/icons8-bootstrap-48.png" width="48" height="48" alt="Bootstrap" />
-      <br />Bootstrap
     </td>
   </tr>
 </table>
