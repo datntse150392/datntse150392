@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="48" height="48" alt="C" />
+        <img src="https://icons8.com/icon/Y5sF8Jr7dwVM/babytragetuch" width="48" height="48" alt="C" />
       <br />C
     </td>
     <td align="center" width="96">
