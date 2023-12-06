@@ -84,10 +84,7 @@
     </td>
   </tr>
   <tr align="center">
-    <td align="center" width="96">
-        <img src="/images/icons8-bootstrap-48.png" width="48" height="48" alt="Bootstrap" />
-      <br />Bootstrap
-    </td>
+    
   </tr>
 </table>
 
