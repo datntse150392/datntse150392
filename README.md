@@ -1,6 +1,10 @@
 <h1 align="center">Hey Everyone 👋, I'm Dat</h1>
 <h3 align="center">A passionate Web developer From VietNam.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajqt8bhjgff0jgd8i8h6yenyptsyw2hpj72v2m9p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<div align="center">
+ <img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajqt8bhjgff0jgd8i8h6yenyptsyw2hpj72v2m9p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
+
 
 - 🔭 I’m currently working on <img alt="WingSpan Logo" width="200" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29"> [WingSpan](https://github.com/datntse150392/OngButDiCode)
 - 🌱 I’m currently learning **Angular**
