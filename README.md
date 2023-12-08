@@ -45,10 +45,10 @@
        <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
     </td>
     <td align="center" width="96">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+       <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
     </td>
     <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+     <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     </td>
   </tr>
 
@@ -93,8 +93,18 @@
       <img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
     </td>
     <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/>     
+    </td>
+    <td align="center" width="96">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+    </td>
+   
   </tr>
   
 </table>
