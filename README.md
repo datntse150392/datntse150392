@@ -18,34 +18,85 @@
   <a href="https://www.facebook.com/ngdat2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
-## 🔭 Favorite Tech
+## 🔨 Languages and Tools:
 
-<h3 align="center">Programming Language</h3>
 <table align="center">
-  <tr>
+
+<tr>
     <td align="center" width="96">
-        <img src="/images/icons8-c-48.png" width="48" height="48" alt="C" />
-      <br />C
+       <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
     </td>
     <td align="center" width="96">
-        <img src="/images/icons8-c-48 (1).png" width="48" height="48" alt="C#" />
-      <br />C++
+       <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
     </td>
     <td align="center" width="96">
-        <img src="/images/icons8-java-48.png" width="48" height="48" alt="Java" />
-      <br />Java
+        <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
     </td>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/">
-        <img src="/images//icons8-javascript-48.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="/images/icons8-typescript-48.png" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
     </td>
   </tr>
+ 
+  <tr>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    </td>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+    </td>
+    <td align="center" width="96">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+    </td>
+  </tr>
+
+ <tr>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>      
+    </td>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>      
+    </td>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>     
+    </td>
+    <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-cloud.png" alt="google-cloud"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+    </td>
+  </tr>
+  
 </table>
 
 <h3 align="center">Front-end</h3>
