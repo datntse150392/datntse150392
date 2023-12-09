@@ -1,5 +1,5 @@
-<h1 align="center">Hey Everyone 👋, I'm Dat</h1>
-<h3 align="center">A passionate Web developer From VietNam.</h3>
+<h1 align="center">Hey Everyone 👋, I'm Dat</h1> FPT University HCMC
+<h3 align="center">A passionate Web Developer and a proud student at FPT University, Vietnam.</h3>
 
 <div align="center">
  <img alt="Coding" width="500" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajqt8bhjgff0jgd8i8h6yenyptsyw2hpj72v2m9p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
