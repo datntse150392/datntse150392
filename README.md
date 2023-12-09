@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Dat</h1> FPT University HCMC
+<h1 align="center">Hey Everyone 👋, I'm Dat</h1>
 <h3 align="center">A passionate Web Developer and a proud student at FPT University, Vietnam.</h3>
 
 <div align="center">
