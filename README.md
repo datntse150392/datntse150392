@@ -104,11 +104,9 @@
     <td align="center" width="96">
      <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
     </td>
-   <tr>
        <td align="center" width="96">
           <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="48" height="48" alt="RxJS" />
       </td>
-    </tr>
   </tr>
   
 </table>
