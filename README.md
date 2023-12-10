@@ -22,7 +22,7 @@
   </br>
   2. 🌱 I’m currently learning **Angular** 
   </br>
-  3. 👨‍💻 All of my projects are available at [https://github.com/datntse150392](https://github.com/datntse150392)
+  3. 👨‍💻 All of my projects are available at <a href="https://github.com/datntse150392"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /> </a> 
   </br>
 </h4>
 
@@ -104,7 +104,5 @@
 
 ###
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/datntse150392/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
