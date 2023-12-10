@@ -103,3 +103,8 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/datntse150392/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
