@@ -1,4 +1,4 @@
-<h4 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, Vietnam.</h4>
+<h3 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, Vietnam.</h3>
 
 ###
 
@@ -22,104 +22,73 @@
 - 👨‍💻 All of my projects are available at [https://github.com/datntse150392](https://github.com/datntse150392)
 - 📫 How to reach me **nt.dat2001dt@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/%c4%91%e1%ba%a1t-%c4%91%e1%ba%a1t-2237681b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ngdat2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-## 🔨 Languages and Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="48" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="microsoftsqlserver logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=reactivex" height="48" alt="reactivex logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="amazonwebservices logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="vercel logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize logo"  />
+</div>
 
-<table align="center">
-
-<tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
-    </td>
-    <td align="center" width="96">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-    </td>
-    <td align="center" width="96">
-        <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
-    </td>
-  </tr>
- 
-  <tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-    </td>
-    <td align="center" width="96">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    </td>
-  </tr>
-
- <tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>      
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>      
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>     
-    </td>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-cloud.png" alt="google-cloud"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
-    </td>
-    <td align="center" width="96">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/>     
-    </td>
-    <td align="center" width="96">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-    </td>
-       <td align="center" width="96">
-          <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="48" height="48" alt="RxJS" />
-      </td>
-  </tr>
-  
-</table>
+###
 
 ## 📊 GitHub Stats
 
