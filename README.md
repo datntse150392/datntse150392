@@ -1,5 +1,15 @@
-<h1 align="center">Hey Everyone 👋, I'm Dat</h1>
-<h3 align="center">A passionate Web Developer and a proud student at FPT University, Vietnam.</h3>
+<h4 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, Vietnam.</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+</div>
+
+###
 
 <div align="center">
  <img alt="Coding" width="500" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajqt8bhjgff0jgd8i8h6yenyptsyw2hpj72v2m9p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
