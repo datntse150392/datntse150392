@@ -37,38 +37,122 @@
 
 <br clear="both">
 
+
+<table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=angular" height="48" alt="angularjs logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
+      </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+      </td>
+     <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cplusplus logo"  />
+      </td>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
+      </td>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="96">
+          <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="microsoftsqlserver logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=reactivex" height="48" alt="reactivex logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=aws" height="48" alt="amazonwebservices logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+      </td>
+    </tr>
+  <tr>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
+      </td>
+      <td align="center" width="96">
+           <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="googlecloud logo"  />
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
+      </td>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="canva logo"  />
+      </td>
+    </tr>
+   <tr>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="vercel logo"  />
+      </td>
+      <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
+      </td>
+      <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
+      </td>
+    </tr>
+  <tr>
+       <td align="center" width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo"  />
+      </td>
+      <td align="center" width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
+      </td>
+      <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize logo"  />
+      </td>
+    </tr>
+</table>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=angular" height="48" alt="angularjs logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="microsoftsqlserver logo"  />
-  <img src="https://skillicons.dev/icons?i=reactivex" height="48" alt="reactivex logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="googlecloud logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="canva logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="vercel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize logo"  />
+ 
+  
 </div>
 
 ###
