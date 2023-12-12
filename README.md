@@ -11,6 +11,7 @@
 <div align="center"> 
   <h2>About  me</h2>
   <p>Currently, I am focusing on learning Angular</p>
+  <img height="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2Fangulargif.gif?alt=media&token=c1df93a1-3f28-4760-b52e-8c0053e77ea4"  />
   <p>Practicing and studying with my personal project, WingSpan - Learning Course Web</p>
   </br>
   <img alt="WingSpan Logo" width="300" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29">
