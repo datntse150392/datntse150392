@@ -109,10 +109,3 @@
 </div>
 
 ###
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2Ftimelapse.gif?alt=media&token=b8553b41-4232-4e3e-a4ba-3f1600023b4c"  />
-</div>
-
-###
