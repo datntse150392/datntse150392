@@ -147,6 +147,9 @@
       <td align="center" width="96">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize logo"  />
       </td>
+     <td align="center" width="96">
+            <img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/>
+      </td>
     </tr>
 </table>
 
