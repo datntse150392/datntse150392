@@ -6,7 +6,6 @@
 
 <h2 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, <strong>Vietnam</strong>.</h2>
 
----
 
 <div align="center"> 
   <h2>About  me</h2>
@@ -21,7 +20,6 @@
 
 ###
 
-</br>
 
 <div align="center">
   <a href="https://www.instagram.com/marc.ng0205/">
