@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, Vietnam.</h3>
+<h2 align="center">Hey Everyone 👋, I'm Dat<br>A passionate Web Developer and a proud student at FPT University, <strong>Vietnam</strong>.</h2>
 
 ---
 
