@@ -162,7 +162,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datntse150392&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datntse150392&langs_count=8&show_icons=true&theme=tokyonight)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datntse150392&langs_count=8&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datntse150392&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=datntse150392&theme=tokyonight&hide_border=false" /><br/>
 </div>
