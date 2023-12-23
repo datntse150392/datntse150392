@@ -2,9 +2,8 @@
   <h2>I'm currently learning Angular, Node.js, and Figma.</h2>
   <img height="150" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2Fangulargif.gif?alt=media&token=c1df93a1-3f28-4760-b52e-8c0053e77ea4" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2FREADME.gif?alt=media&token=0435bc8f-e340-4772-b69e-9f0c4dc85391" style="background-color: black; padding: 10px;border-radius: 10px;" />
-  <h2>Practicing and studying with my personal project, WingSpan - Learning Course Web</h2>
   </br>
-  <img alt="WingSpan Logo" width="300" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29">
+  
   
 </div>
 
@@ -13,8 +12,7 @@
 ## What I'm Working On
 
 ### Biggest Projects
-
-If you work with TypeScript, you may have used one of the open source projects I support:
+Practicing and studying with my personal project, WingSpan - Learning Course Web
 
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
@@ -26,7 +24,11 @@ If you work with TypeScript, you may have used one of the open source projects I
 	</thead>
 	<tbody>
 		<tr>
-			<th span="row"><a href="https://github.com/datntse150392/FrontEnd_WingSpan">WingSpan</a></th>
+			<th span="row">
+				<a href="https://github.com/datntse150392/FrontEnd_WingSpan">
+					<img alt="WingSpan Logo" width="100" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29">
+				</a>
+			</th>
 			<td>🚀 [WingSpan] - Exceptional Online Learning Platform for Everyone!</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
