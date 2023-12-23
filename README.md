@@ -27,21 +27,9 @@ If you work with TypeScript, you may have used one of the open source projects I
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
-			<td>✨ Monorepo for all the tooling which enables ESLint to support TypeScript</td>
-			<td>Maintainer</td>
-			<td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
-			<td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
-			<td>Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
+			<td>🚀 [WingSpan] - Exceptional Online Learning Platform for Everyone!</td>
+			<td>Fullstack Developer</td>
+			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/FrontEnd_WingSpan" /></td>
 		</tr>
 	</tbody>
 </table>
