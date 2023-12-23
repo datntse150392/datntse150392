@@ -8,6 +8,44 @@
   
 </div>
 
+---
+
+## What I'm Working On
+
+### Biggest Projects
+
+If you work with TypeScript, you may have used one of the open source projects I support:
+
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
+			<td>✨ Monorepo for all the tooling which enables ESLint to support TypeScript</td>
+			<td>Maintainer</td>
+			<td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
+			<td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
+			<td>Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
+		</tr>
+	</tbody>
+</table>
+
 ###
 
 
