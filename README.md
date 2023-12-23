@@ -29,7 +29,7 @@ Practicing and studying with my personal project, WingSpan - Learning Course Web
 					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2Fn%C6%A1i%20t%E1%BA%A7m%20nh%C3%ACn%20kh%C3%B4ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n.svg?alt=media&token=c1dbc7d9-ba6b-4e9c-8145-b09ef2c0eb29">
 				</a>
 			</th>
-			<td>🚀 [WingSpan] - Exceptional Online Learning Platform for Everyone!</td>
+			<td>🚀 Exceptional Online Learning Platform for Everyone!</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
