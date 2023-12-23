@@ -26,7 +26,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 	</thead>
 	<tbody>
 		<tr>
-			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
+			<th span="row"><a href="https://github.com/datntse150392/FrontEnd_WingSpan">WingSpan</a></th>
 			<td>🚀 [WingSpan] - Exceptional Online Learning Platform for Everyone!</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
