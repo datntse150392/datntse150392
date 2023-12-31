@@ -38,6 +38,22 @@ Practicing and studying with my personal project, WingSpan - Learning Course Web
 
 ###
 
+### Univeristy Projects (FPTU)
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+###
+
+
 <a href="https://www.topcv.vn/xem-cv/DAtSBQFRVwJVUAlSWFIGBgQBUwkAVQIHV1UGAAc097">My CV</a>
 
 ###
