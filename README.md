@@ -13,7 +13,7 @@
 
 ### Biggest Projects
 Practicing and studying with my personal project, WingSpan - Learning Course Web
-
+I manage the entire project using <a href="https://docs.google.com/spreadsheets/d/16Ou5YP1AylC9l_a9nYZe-RClGeGiFeZP55UQpVGeiF0/edit#gid=0">Google Sheets</a>
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
