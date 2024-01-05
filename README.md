@@ -27,7 +27,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<tr>
 			<th span="row">
 				<a href="https://wingspan-dev-course.vercel.app">
-					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2FLOGO.svg?alt=media&token=5d2b1aff-a83e-4001-8e53-cb236b423fa9">
+					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2FFooter%20(1).svg?alt=media&token=79d7c3e1-51e1-4896-b76d-82a0a7cbc276">
 				</a>
 			</th>
 			<td>🚀 Exceptional Online Learning Platform for Everyone!</td>
