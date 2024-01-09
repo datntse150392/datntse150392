@@ -190,6 +190,11 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
             <img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/>
       </td>
     </tr>
+    <tr>
+       <td align="center" width="96">
+         <img src="/images/logo-dark.svg" alt="Socket.IO logo" class="themedImage_ToTc themedImage--dark_i4oU logo__izH">
+      </td>
+    </tr>
 </table>
 
 <div align="center">
