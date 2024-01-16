@@ -77,7 +77,6 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<th span="col">Role 🧑‍🏭</th>
 		<th span="col">Stars ⭐</th>
 	</thead>
-
   	<tbody>
 		<tr>
 			<th span="row">
