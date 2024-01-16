@@ -58,7 +58,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
 				</a>
 			</th>
-			<td>🚀 IT Website for FPT Students</td>
+			<td> IT Website Online Learning Platform for FPT Students </td>
 			<td>Frontend Developer</td>
 			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
