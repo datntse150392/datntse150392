@@ -25,16 +25,16 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<th span="col">Role 🧑‍🏭</th>
 		<th span="col">Stars ⭐</th>
 	</thead>
-		<tbody>
+	<tbody>
 		<tr>
 			<th span="row">
-				<a href="#">
-					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
+				<a href="https://wingspan-dev-course.vercel.app">
+					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2FFooter%20(1).svg?alt=media&token=79d7c3e1-51e1-4896-b76d-82a0a7cbc276">
 				</a>
 			</th>
-			<td width="420">🚀 IT Website Online Learning Platform for FPT Students</td>
-			<td>Frontend Developer</td>
-			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
+			<td with="420">🚀 Exceptional Online Learning Platform for Everyone!</td>
+			<td>Fullstack Developer</td>
+			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
 	</tbody>
 </table>
