@@ -25,15 +25,16 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<th span="col">Role 🧑‍🏭</th>
 		<th span="col">Stars ⭐</th>
 	</thead>
-	<tbody>
+		<tbody>
 		<tr>
 			<th span="row">
 				<a href="#">
-					<img alt="golang logo" width="150" src="./images/Go (gopher) Programming Language Sticker _ Gopher.jpg">
+					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
 				</a>
 			</th>
-			<td width="450">🚀 RESTful API with Go and Gin </td>
-			<td><img alt="Stars: Go" src="" /></td>
+			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
+			<td>Frontend Developer</td>
+			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -76,16 +77,17 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<th span="col">Role 🧑‍🏭</th>
 		<th span="col">Stars ⭐</th>
 	</thead>
-		<tbody>
+
+  	<tbody>
 		<tr>
 			<th span="row">
 				<a href="#">
-					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
+					<img alt="golang logo" width="150" src="./images/Go (gopher) Programming Language Sticker _ Gopher.jpg">
 				</a>
 			</th>
-			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
-			<td>Frontend Developer</td>
-			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
+			<td width="450">🚀 RESTful API with Go and Gin </td>
+      <td>Backend Developer</td>
+			<td><img alt="Stars: Go" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan"/></td>
 		</tr>
 	</tbody>
 </table>
