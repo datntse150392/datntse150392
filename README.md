@@ -32,7 +32,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
 				</a>
 			</th>
-			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
+			<td width="420">🚀 IT Website Online Learning Platform for FPT Students</td>
 			<td>Frontend Developer</td>
 			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
@@ -58,7 +58,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
 				</a>
 			</th>
-			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
+			<td width="420">🚀 IT Website Online Learning Platform for FPT Students</td>
 			<td>Frontend Developer</td>
 			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
@@ -84,7 +84,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="golang logo" width="150" src="./images/Go (gopher) Programming Language Sticker _ Gopher.jpg">
 				</a>
 			</th>
-			<td width="450">🚀 RESTful API with Go and Gin </td>
+			<td width="420">🚀 RESTful API with Go and Gin </td>
       <td>Backend Developer</td>
 			<td><img alt="Stars: Go" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan"/></td>
 		</tr>
