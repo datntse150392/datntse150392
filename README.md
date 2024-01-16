@@ -32,7 +32,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2FFooter%20(1).svg?alt=media&token=79d7c3e1-51e1-4896-b76d-82a0a7cbc276">
 				</a>
 			</th>
-			<td width="5rem">🚀 Exceptional Online Learning Platform for Everyone!</td>
+			<td width="300">🚀 Exceptional Online Learning Platform for Everyone!</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
