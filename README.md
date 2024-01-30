@@ -1,7 +1,8 @@
 <div align="center"> 
   <h2>I'm currently learning Angular, Node.js, Go and Figma.</h2>
-  <img height="150" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2Fangulargif.gif?alt=media&token=c1df93a1-3f28-4760-b52e-8c0053e77ea4" style="background-color: black; padding: 10px;border-radius: 10px;" />
-  <img height="150" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/README%2FREADME.gif?alt=media&token=0435bc8f-e340-4772-b69e-9f0c4dc85391" style="background-color: black; padding: 10px;border-radius: 10px;" />
+  <img height="150" width="150" src="/images/Angular Js Javascript Developer Sticker _ Angular-js.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
+  <img height="150" width="150" src="/images/Best Node Js  Resources, Courses and Tutorials_.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
+  <img height="150" width="150" src="/images/Go (gopher) Programming Language Sticker _ Gopher (1).jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
   </br>
   
   
