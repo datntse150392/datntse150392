@@ -229,7 +229,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
     </tr>
     <tr>
        <td align="center" width="96">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.IO logo" class="themedImage_ToTc themedImage--dark_i4oU logo__izH">
+         <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.IO logo" class="themedImage_ToTc themedImage--dark_i4oU logo__izH">
       </td>
     </tr>
 </table>
