@@ -92,9 +92,6 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 	</tbody>
 </table>
 
-###
-
-<a href="https://www.topcv.vn/xem-cv/DAtSBQFRVwJVUAlSWFIGBgQBUwkAVQIHV1UGAAc097">My CV</a>
 
 ###
 
