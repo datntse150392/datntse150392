@@ -3,7 +3,7 @@
   <img height="150" width="150" src="/images/Angular Js Javascript Developer Sticker _ Angular-js.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="/images/04142098-2e58-4ef8-9644-8966f666b3e6.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="/images/Go (gopher) Programming Language Sticker _ Gopher (1).jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react" style="background-color: black; padding: 10px;border-radius: 10px;" />
+<img width="150" height="150" src="https://img.icons8.com/plasticine/150/react.png" alt="react" style="background-color: black; padding: 10px;border-radius: 10px;" />
  
   </br>
   
