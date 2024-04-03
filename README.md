@@ -68,6 +68,30 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 	</tbody>
 </table>
 
+### React Native Project
+
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+		<tbody>
+		<tr>
+			<th span="row">
+				<a href="#">
+					<img alt="KITIKAT Logo" width="150" src="https://down-tx-vn.img.susercontent.com/vn-11134216-7r98o-lrsrtujm88t52d_tn.webp">
+				</a>
+			</th>
+			<td width="450">KITIKAT PETSHOP</td>
+			<td>Fullstack Developer</td>
+			<td><img alt="Stars: KITIKAT" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
+		</tr>
+	</tbody>
+</table>
+
 ###
 
 ### Self-Study with Some Projects
