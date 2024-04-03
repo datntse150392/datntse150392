@@ -69,7 +69,9 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 </table>
 
 ### React Native Project
-
+Practicing and studying with my personal project (React Native - Golang)
+</br>
+I manage the entire project using <a href="https://docs.google.com/spreadsheets/d/19btDtSpL-lboCCe4vhoqxSJdDc69tMGTwVLtKFcdDpI/edit#gid=412002623">Google Sheets</a>
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
