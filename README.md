@@ -83,7 +83,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<tbody>
 		<tr>
 			<th span="row">
-				<a href="#">
+				<a href="https://github.com/datntse150392/KITIKAT-PETSHOP">
 					<img alt="KITIKAT Logo" width="150" src="https://down-tx-vn.img.susercontent.com/vn-11134216-7r98o-lrsrtujm88t52d_tn.webp">
 				</a>
 			</th>
