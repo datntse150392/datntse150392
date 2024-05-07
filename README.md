@@ -58,20 +58,22 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<tr>
 			<th span="row">
 				<a href="#">
-					<img alt="Unicourse Logo" width="150" src="./images/Logo UniCourse.svg">
+					<img alt="Unicourse Logo" width="150" src="./images/logoHeader.png">
 				</a>
 			</th>
 			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
-			<td>Frontend Developer</td>
-			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
+			<td>Fullstack Developer</td>
+			<td><img alt="Stars: Unicourse" src="" /></td>
 		</tr>
 	</tbody>
 </table>
 
 ### React Native Project
+
 Practicing and studying with my personal project (React Native - Golang)
 </br>
 I manage the entire project using <a href="https://docs.google.com/spreadsheets/d/19btDtSpL-lboCCe4vhoqxSJdDc69tMGTwVLtKFcdDpI/edit#gid=412002623">Google Sheets</a>
+
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
