@@ -62,8 +62,8 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 				</a>
 			</th>
 			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
-			<td>Fullstack Developer</td>
-			<td><img alt="Stars: Unicourse" src="" /></td>
+			<td>Frontend Developer</td>
+			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
 	</tbody>
 </table>
