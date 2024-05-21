@@ -14,6 +14,30 @@
 
 ## What I'm Working On
 
+### Univeristy Projects (FPTU)
+
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+		<tbody>
+		<tr>
+			<th span="row">
+				<a href="#">
+					<img alt="Unicourse Logo" width="150" src="./images/logoHeader.png">
+				</a>
+			</th>
+			<td width="450">Unicourse is an educational platform that serves as a connection between educators and university students.</td>
+			<td>Fullstack Developer</td>
+			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
+		</tr>
+	</tbody>
+</table>
+
 ### Biggest Projects
 
 Practicing and studying with my personal project, WingSpan - Learning Course Web
@@ -35,7 +59,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="WingSpan Logo" width="150" src="https://firebasestorage.googleapis.com/v0/b/ongbutdicode.appspot.com/o/Logo%2FFooter%20(1).svg?alt=media&token=79d7c3e1-51e1-4896-b76d-82a0a7cbc276">
 				</a>
 			</th>
-			<td width="450">🚀 Exceptional Online Learning Platform for Everyone!</td>
+			<td width="450">Exceptional Online Learning Platform for Everyone!</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: WingSpan" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
@@ -43,30 +67,6 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 </table>
 
 ###
-
-### Univeristy Projects (FPTU)
-
-<!-- markdownlint-disable sentences-per-line -->
-<table width="100%">
-	<thead>
-		<th span="col">Project ⚙️</th>
-		<th span="col">Description 📝</th>
-		<th span="col">Role 🧑‍🏭</th>
-		<th span="col">Stars ⭐</th>
-	</thead>
-		<tbody>
-		<tr>
-			<th span="row">
-				<a href="#">
-					<img alt="Unicourse Logo" width="150" src="./images/logoHeader.png">
-				</a>
-			</th>
-			<td width="450">🚀 IT Website Online Learning Platform for FPT Students</td>
-			<td>Frontend Developer</td>
-			<td><img alt="Stars: Unicourse" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
-		</tr>
-	</tbody>
-</table>
 
 ### React Native Project
 
@@ -89,7 +89,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="KITIKAT Logo" width="150" src="https://down-tx-vn.img.susercontent.com/vn-11134216-7r98o-lrsrtujm88t52d_tn.webp">
 				</a>
 			</th>
-			<td width="450">KITIKAT PETSHOP</td>
+			<td width="450">This mobile application is designed to cater to pet owners, specifically cat lovers, offering a wide range of products including food, grooming tools, and accessories</td>
 			<td>Fullstack Developer</td>
 			<td><img alt="Stars: KITIKAT" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan" /></td>
 		</tr>
@@ -115,7 +115,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 					<img alt="golang logo" width="150" src="./images/Go (gopher) Programming Language Sticker _ Gopher.jpg">
 				</a>
 			</th>
-			<td width="450">🚀 RESTful API with Go and Gin </td>
+			<td width="450">RESTful API with Go and Gin </td>
       <td>Backend Developer</td>
 			<td><img alt="Stars: Go" src="https://img.shields.io/github/stars/datntse150392/FrontEnd_WingSpan"/></td>
 		</tr>
