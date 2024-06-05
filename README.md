@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>I'm currently learning Angular, Node.js, React Native, Go and Figma</h2>
+  <h2>I'm currently learning Angular, Node.js, React Native, Go</h2>
   <img height="150" width="150" src="/images/Angular Js Javascript Developer Sticker _ Angular-js.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="/images/04142098-2e58-4ef8-9644-8966f666b3e6.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="/images/Go (gopher) Programming Language Sticker _ Gopher (1).jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
@@ -51,7 +51,7 @@ I manage the entire project using <a href="https://docs.google.com/spreadsheets/
 		<th span="col">Description 📝</th>
 		<th span="col">Role 🧑‍🏭</th>
 		<th span="col">Stars ⭐</th>
-	</thead>
+	</thead>   
 	<tbody>
 		<tr>
 			<th span="row">
