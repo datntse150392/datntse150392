@@ -1,6 +1,6 @@
 <div align="center">                                 
-  <h2>I'm currently learning Angular, Node.js, React Native, Go</h2>
-  <img height="150" width="150" src="/images/Angular Js Javascript Developer Sticker _ Angular-js.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
+  <h2>I'm currently learning Angular, Vue.js</h2>
+  <img height="150" width="150" src="https://img.icons8.com/color/150/angularjs.png" style="background-color: black; padding: 10px;border-radius: 10px;" />
   <img height="150" width="150" src="https://img.icons8.com/color/150/vue-js.png" style="background-color: black; padding: 10px;border-radius: 10px;" />
  
   </br>
