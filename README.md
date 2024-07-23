@@ -1,9 +1,7 @@
 <div align="center">                                 
   <h2>I'm currently learning Angular, Node.js, React Native, Go</h2>
   <img height="150" width="150" src="/images/Angular Js Javascript Developer Sticker _ Angular-js.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
-  <img height="150" width="150" src="/images/04142098-2e58-4ef8-9644-8966f666b3e6.jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
-  <img height="150" width="150" src="/images/Go (gopher) Programming Language Sticker _ Gopher (1).jpg" style="background-color: black; padding: 10px;border-radius: 10px;" />
-<img width="150" height="150" src="https://img.icons8.com/plasticine/150/react.png" alt="react" style="background-color: white; padding: 10px;border-radius: 10px;" />
+  <img height="150" width="150" src="https://img.icons8.com/color/150/vue-js.png" style="background-color: black; padding: 10px;border-radius: 10px;" />
  
   </br>
   
